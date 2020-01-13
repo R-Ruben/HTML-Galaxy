@@ -1,0 +1,23 @@
+body, .space {
+    background-color: #000818;
+    margin: 0px;
+    height: 800px;
+    width:800px;
+}
+
+.entity {
+    display: none;
+    border-radius: 100px;
+}
+
+.star {
+    background-color: #fff;
+    border-radius: 100px;
+    box-shadow: 0px 0px 80px #fff;
+}
+
+.planet {
+    box-shadow: 0px 0px 0px #a51;
+    width: 5vh;
+    height: 5vh;
+}
